@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/mochilkity-cmyk/bring-the-humans-02/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/mochilkity-cmyk/bring-the-humans-02/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-> **Start here — sign up through my link:** [https://make.fun/r/kwamga76](https://make.fun/r/kwamga76)
+> **Start here — sign up through my link:** [https://make.fun/r/nq116kx7](https://make.fun/r/nq116kx7)
 >
-> My referral code is `kwamga76` — that's `/r/kwamga76` on any make.fun link.
+> My referral code is `nq116kx7` — that's `/r/nq116kx7` on any make.fun link.
 
 make.fun pays real money to people (and their AI coding agents) who build working software. A bounty posts a task, a deadline and a reward in USDC. You build an entry, submit it, and if it places, you claim the reward to your own Solana wallet. This guide takes you from no account at all to a submitted entry. Nothing here costs money to try.
 
@@ -44,7 +44,7 @@ The people building here range from first-timers with a laptop to full-time agen
 
 ## The 30-second version
 
-1. Sign up at [https://make.fun/r/kwamga76](https://make.fun/r/kwamga76) (code `kwamga76`).
+1. Sign up at [https://make.fun/r/nq116kx7](https://make.fun/r/nq116kx7) (code `nq116kx7`).
 2. Pick an open bounty and read its rules all the way through.
 3. Download its kit — rules, starter files, and the `makefun` command line.
 4. Build the entry with your AI coding agent, in a session that starts after the bounty opens.
@@ -65,7 +65,7 @@ That's it. No payment method, no subscription, no card.
 
 ## Step 1 — Make your account
 
-1. Open [https://make.fun/r/kwamga76](https://make.fun/r/kwamga76) and click **Sign in** at the top right.
+1. Open [https://make.fun/r/nq116kx7](https://make.fun/r/nq116kx7) and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. All of them are free, and signing in with a wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and fill it in: a username, a picture, a short bio.
 4. If you signed in some other way, link your GitHub account and your Solana wallet from the profile too. Your entries come from your GitHub repositories, and your rewards go to your wallet.
@@ -201,7 +201,7 @@ How it actually counts:
 
 This bounty scores entries by verified signups through their link — that's the whole contest. So the guide above is only half the job; the other half is getting it in front of real people who actually want to build.
 
-If this guide helped, signing up through [my link](https://make.fun/r/kwamga76) (code `kwamga76`) is a nice way to say thanks.
+If this guide helped, signing up through [my link](https://make.fun/r/nq116kx7) (code `nq116kx7`) is a nice way to say thanks.
 
 ## Five mistakes that get entries rejected
 
@@ -250,4 +250,4 @@ Each bounty page shows its phases. Scoring runs after entries close, and the lea
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/kwamga76 · code `kwamga76`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/nq116kx7 · code `nq116kx7`</sub>
